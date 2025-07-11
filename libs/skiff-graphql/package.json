@@ -25,7 +25,7 @@
   "devDependencies": {
     "@graphql-codegen/add": "^3.1.1",
     "@graphql-codegen/schema-ast": "^2.4.1",
-    "esbuild": "^0.15.6",
+    "esbuild": "^0.25.6",
     "esbuild-node-externals": "^1.5.0",
     "eslint-config-skiff-eslint": "workspace:*",
     "onchange": "^7.1.0",
@@ -36,7 +36,7 @@
     "@graphql-codegen/cli": "^2.6.2",
     "@graphql-codegen/typescript": "^2.4.11",
     "apollo-server-errors": "^3.3.1",
-    "graphql": "16.8.1",
+    "graphql": "16.11.0",
     "skiff-utils": "workspace:libs/skiff-utils",
     "tslib": "^2.4.0"
   }
